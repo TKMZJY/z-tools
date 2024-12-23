@@ -1,5 +1,5 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-
+// 1231
 const router = createRouter({
     history: createWebHashHistory(import.meta.env.BASE_URL),
     scrollBehavior() {
