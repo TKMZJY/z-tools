@@ -17,6 +17,6 @@ const router = createRouter({
             component: () => import('../views/time.vue')
         }
     ]
-})
+}) 
 
 export default router
