@@ -1,0 +1,1 @@
+import{c as r,a as c,w as a,r as _,o as i,b as l}from"./index-CNNBIZMq.js";const m=(o,t)=>{const e=o.__vccOpts||o;for(const[n,s]of t)e[n]=s;return e},d={},f={class:"root"};function p(o,t){const e=_("RouterLink");return i(),r("div",f,[c(e,{to:"/time",class:"btn"},{default:a(()=>t[0]||(t[0]=[l("Time")])),_:1})])}const k=m(d,[["render",p]]);export{k as default};
